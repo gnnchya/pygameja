@@ -1,0 +1,10 @@
+coloredlogs==15.0.1
+flatbuffers==23.3.3
+humanfriendly==10.0
+mpmath==1.2.1
+numpy==1.24.2
+onnxruntime==1.14.1
+opencv-python==4.7.0.72
+packaging==23.0
+protobuf==4.22.0
+sympy==1.11.1
